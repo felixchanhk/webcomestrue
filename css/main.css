@@ -203,7 +203,7 @@ section {
   height: 51px;
   width: 51px;
   line-height: 48px;
-  border-radius: 50%;
+  border-radius: 20%;
   border:1px solid #fff;  
   z-index: 20;
   font-size: 24px;
